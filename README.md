@@ -2,7 +2,7 @@
 - 👀 I’m interested in quantum computing, quantum physics, mechanics and mathematics.
 - 🌱 I’m currently learning Quantum computing @ EDF
 - 💞️ I’m looking to collaborate on variational quantum algorithms
-- 📫 How to reach me arthur.mathorel@edf.com
+- 📫 How to reach me arthur.mathorel@gmail.com
 
 
 <!---
