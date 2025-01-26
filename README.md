@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @arthurmath
-- 👀 I’m interested in Computer science, Mathematics and Machine learning.
-- 🌱 I’m currently learning Quantum computing @ EDF
-- 💞️ I’m looking to collaborate on variational quantum algorithms
-- 📫 How to reach me:  arthur.mathorel@gmail.com
+- 👀 I’m interested in Computer science, Mathematics and AI.
+- 🌱 I’m currently learning NLP and Generative AI.
+- 💞️ I’m looking to collaborate on Machine, Deep and Reinforcement learning.
+- 📫 How to reach me: arthur.mathorel@gmail.com
 
 
 <!---
