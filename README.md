@@ -1,4 +1,4 @@
-👋 Hi, I’m Arthur
+👋 Hi, I’m Arthur  
 🌍 Based in Paris, France  
 👀 I’m interested in Generative AI, NLP and Mathematics  
 🌱 I’m looking to collaborate on Machine, Deep and Reinforcement learning  
