@@ -1,7 +1,6 @@
 👋 Hi, I’m Arthur  
 🌍 Based in Paris, France  
-👀 I’m interested in Generative AI and Mathematics  
-🌱 I’m looking to collaborate on Machine, Deep and Reinforcement learning  
+👀 I’m interested in Machine learning, Reinforcement learning and Mathematics  
 📫 How to reach me: arthur.mathorel@gmail.com  
 
 
